@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/Rhymen/go-whatsapp/binary/proto"
+	"go.mau.fi/whatsmeow/binary/proto"
 
 	qrcodeTerminal "github.com/Baozisoftware/qrcode-terminal-go"
 	"github.com/Rhymen/go-whatsapp"

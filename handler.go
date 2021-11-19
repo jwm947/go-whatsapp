@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/Rhymen/go-whatsapp/binary"
-	"github.com/Rhymen/go-whatsapp/binary/proto"
+	"go.mau.fi/whatsmeow/binary/proto"
 )
 
 /*
